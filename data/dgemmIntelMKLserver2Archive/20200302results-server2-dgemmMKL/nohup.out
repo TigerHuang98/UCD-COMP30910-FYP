@@ -1,0 +1,380 @@
+Redirecting to /bin/systemctl stop mysqld.service
+Failed to stop mysqld.service: Unit mysqld.service not loaded.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32631 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32651 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32660 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32677 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32686 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32702 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32718 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32746 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32762 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32770 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32786 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32795 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32811 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32819 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 32842 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 32870 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 33485 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 34168 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 34920 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 35721 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 36578 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 37488 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 38161 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 38753 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 39350 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 40051 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 40861 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 41558 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 42160 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 42789 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 43492 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 44306 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 45048 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 45644 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 46383 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 47262 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 47926 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 48824 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49464 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49481 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49489 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49505 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49521 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49529 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49545 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49553 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49569 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49578 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49594 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49611 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49619 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49635 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 49643 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 49670 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 50293 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 50791 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 51313 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 51907 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 52515 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 53167 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 53884 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 54630 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 55464 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 56337 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 57269 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 57962 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 58592 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 59220 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 59936 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 60785 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 61476 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 62106 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 62710 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 63455 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 64292 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 65043 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 65671 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 66439 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 67348 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 68021 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 68954 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69616 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69634 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69642 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69658 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69666 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69683 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69700 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69708 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69731 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69753 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69771 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69787 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69795 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69811 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 69827 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 69847 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 70535 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 71093 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 71669 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 72262 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 72883 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 73573 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 74318 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 75124 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 75982 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 76924 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 77880 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 78606 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 79235 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 79878 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 80615 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 81502 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 82269 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 82917 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 83563 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 84325 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 85182 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 86002 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 86648 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 87436 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 88366 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 89066 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 90023 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90715 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90732 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90748 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90756 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90772 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90795 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90803 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90820 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90836 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90845 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90862 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90870 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90887 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90904 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 90913 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 90940 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 91657 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 92241 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 92808 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 93431 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 94076 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 94794 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 95569 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 96373 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 97238 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 98190 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 99183 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 99916 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 100592 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 101247 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 102018 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 102892 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 103671 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 104344 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 105011 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 105788 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 106670 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 107417 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 108079 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 108895 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 109844 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 110570 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 111528 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112288 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112312 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112328 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112336 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112353 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112370 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112379 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112395 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112411 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112419 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112436 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112453 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112461 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112477 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 113: 112493 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 112528 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 113329 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 113972 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 114587 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 115235 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 115898 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 59: 116624 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1

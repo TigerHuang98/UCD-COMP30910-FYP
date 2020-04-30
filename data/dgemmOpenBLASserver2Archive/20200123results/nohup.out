@@ -1,0 +1,26 @@
+Redirecting to /bin/systemctl stop mysqld.service
+Failed to stop mysqld.service: Unit mysqld.service not loaded.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 112: 31977 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 32867 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 34782 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 36218 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 37489 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 38696 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 40006 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 41379 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 42691 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 43997 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 45259 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 46537 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1

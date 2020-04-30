@@ -1,0 +1,76 @@
+Redirecting to /bin/systemctl stop  mysqld.service
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15097 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15243 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15252 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15274 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15290 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15370 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15386 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15394 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15410 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15426 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15507 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15515 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15531 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15547 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 122: 15564 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 15591 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 19326 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 21430 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 23889 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 26487 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 28954 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 31254 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 34847 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 37175 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 39998 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 42870 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 45489 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67: 48147 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67:  2113 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67:  5320 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 67:  8234 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: syntax error

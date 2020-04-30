@@ -1,0 +1,16 @@
+Redirecting to /bin/systemctl stop mysqld.service
+Failed to stop mysqld.service: Unit mysqld.service not loaded.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 112: 32256 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 33190 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 34902 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 36531 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 38148 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 39839 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server2_fyp.sh: line 62: 41452 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1

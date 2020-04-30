@@ -1,0 +1,15 @@
+N 27648, t 1: Execution time 27.588234 seconds
+N 27648, t 1: Execution time 27.669394 seconds
+N 27648, t 1: Execution time 27.732666 seconds
+N 27648, t 1: Execution time 27.726558 seconds
+N 27648, t 1: Execution time 27.725630 seconds
+N 27648, t 1: Execution time 27.678318 seconds
+N 27648, t 1: Execution time 27.666994 seconds
+N 27648, t 1: Execution time 27.760549 seconds
+N 27648, t 1: Execution time 27.731529 seconds
+N 27648, t 1: Execution time 27.704040 seconds
+N 27648, t 1: Execution time 27.665434 seconds
+N 27648, t 1: Execution time 27.717599 seconds
+N 27648, t 1: Execution time 27.717325 seconds
+N 27648, t 1: Execution time 27.664787 seconds
+N 27648, t 1: Execution time 27.748189 seconds

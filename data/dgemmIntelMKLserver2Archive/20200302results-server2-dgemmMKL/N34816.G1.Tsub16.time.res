@@ -1,0 +1,15 @@
+N 34816, t 16: Execution time 167.618204 seconds
+N 34816, t 16: Execution time 155.001571 seconds
+N 34816, t 16: Execution time 154.198054 seconds
+N 34816, t 16: Execution time 167.575520 seconds
+N 34816, t 16: Execution time 148.950528 seconds
+N 34816, t 16: Execution time 154.100525 seconds
+N 34816, t 16: Execution time 148.861081 seconds
+N 34816, t 16: Execution time 160.977857 seconds
+N 34816, t 16: Execution time 154.442464 seconds
+N 34816, t 16: Execution time 160.467561 seconds
+N 34816, t 16: Execution time 154.255602 seconds
+N 34816, t 16: Execution time 154.575495 seconds
+N 34816, t 16: Execution time 154.518224 seconds
+N 34816, t 16: Execution time 154.314978 seconds
+N 34816, t 16: Execution time 161.290627 seconds

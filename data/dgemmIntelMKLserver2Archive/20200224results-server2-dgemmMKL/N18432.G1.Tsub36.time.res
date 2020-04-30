@@ -1,0 +1,15 @@
+N 18432, t 36: Execution time 27.892662 seconds
+N 18432, t 36: Execution time 27.628442 seconds
+N 18432, t 36: Execution time 27.795691 seconds
+N 18432, t 36: Execution time 28.273960 seconds
+N 18432, t 36: Execution time 27.636994 seconds
+N 18432, t 36: Execution time 27.929956 seconds
+N 18432, t 36: Execution time 28.359316 seconds
+N 18432, t 36: Execution time 27.707688 seconds
+N 18432, t 36: Execution time 27.959937 seconds
+N 18432, t 36: Execution time 27.565556 seconds
+N 18432, t 36: Execution time 27.770030 seconds
+N 18432, t 36: Execution time 27.731601 seconds
+N 18432, t 36: Execution time 27.505703 seconds
+N 18432, t 36: Execution time 27.812339 seconds
+N 18432, t 36: Execution time 27.585308 seconds

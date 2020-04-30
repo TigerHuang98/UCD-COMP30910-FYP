@@ -1,0 +1,15 @@
+N 40960, t 8: Execution time 491.520732 seconds
+N 40960, t 8: Execution time 483.978086 seconds
+N 40960, t 8: Execution time 487.350159 seconds
+N 40960, t 8: Execution time 485.929505 seconds
+N 40960, t 8: Execution time 483.354592 seconds
+N 40960, t 8: Execution time 484.726353 seconds
+N 40960, t 8: Execution time 484.589097 seconds
+N 40960, t 8: Execution time 484.915797 seconds
+N 40960, t 8: Execution time 483.337150 seconds
+N 40960, t 8: Execution time 485.799322 seconds
+N 40960, t 8: Execution time 484.251081 seconds
+N 40960, t 8: Execution time 485.550951 seconds
+N 40960, t 8: Execution time 484.262188 seconds
+N 40960, t 8: Execution time 485.140019 seconds
+N 40960, t 8: Execution time 483.692296 seconds

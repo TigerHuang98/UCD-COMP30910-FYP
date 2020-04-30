@@ -1,0 +1,15 @@
+N 20480, t 48: Execution time 50.617389 seconds
+N 20480, t 48: Execution time 50.173362 seconds
+N 20480, t 48: Execution time 49.717310 seconds
+N 20480, t 48: Execution time 50.298164 seconds
+N 20480, t 48: Execution time 50.832862 seconds
+N 20480, t 48: Execution time 50.228659 seconds
+N 20480, t 48: Execution time 49.978616 seconds
+N 20480, t 48: Execution time 50.877064 seconds
+N 20480, t 48: Execution time 50.166827 seconds
+N 20480, t 48: Execution time 50.215884 seconds
+N 20480, t 48: Execution time 50.966417 seconds
+N 20480, t 48: Execution time 50.664005 seconds
+N 20480, t 48: Execution time 49.901559 seconds
+N 20480, t 48: Execution time 49.756804 seconds
+N 20480, t 48: Execution time 50.196841 seconds

@@ -1,0 +1,127 @@
+Redirecting to /bin/systemctl stop  mysqld.service
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10136 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10154 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10162 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10179 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10187 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10204 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10212 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10228 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10236 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10252 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10268 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10276 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10293 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10301 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 114: 10317 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 10344 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 11062 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 11710 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 12536 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 13538 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 14191 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 14994 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 15968 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 16784 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 17404 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 18272 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 19255 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 19921 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 20767 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 21751 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 22486 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 23099 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 23907 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 24980 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 25021 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+./runenergynow_server1_fyp.sh: line 85: ./dgemmlimb16: No such file or directory
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 25062 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 25104 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 25715 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 60: 26717 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1

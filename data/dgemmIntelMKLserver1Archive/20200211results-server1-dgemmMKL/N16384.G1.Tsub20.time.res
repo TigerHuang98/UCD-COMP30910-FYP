@@ -1,0 +1,15 @@
+N 16384, t 20: Execution time 40.318075 seconds
+N 16384, t 20: Execution time 33.822186 seconds
+N 16384, t 20: Execution time 39.634971 seconds
+N 16384, t 20: Execution time 39.028584 seconds
+N 16384, t 20: Execution time 38.014006 seconds
+N 16384, t 20: Execution time 38.301059 seconds
+N 16384, t 20: Execution time 40.651160 seconds
+N 16384, t 20: Execution time 38.558845 seconds
+N 16384, t 20: Execution time 38.747570 seconds
+N 16384, t 20: Execution time 39.201236 seconds
+N 16384, t 20: Execution time 39.206797 seconds
+N 16384, t 20: Execution time 36.709943 seconds
+N 16384, t 20: Execution time 39.803797 seconds
+N 16384, t 20: Execution time 39.299383 seconds
+N 16384, t 20: Execution time 38.254525 seconds

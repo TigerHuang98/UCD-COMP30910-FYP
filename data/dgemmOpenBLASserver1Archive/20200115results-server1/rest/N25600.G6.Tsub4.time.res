@@ -1,0 +1,15 @@
+N 25600, t 4: Execution time 70.941491 seconds
+N 25600, t 4: Execution time 70.852768 seconds
+N 25600, t 4: Execution time 70.253780 seconds
+N 25600, t 4: Execution time 71.504271 seconds
+N 25600, t 4: Execution time 72.350709 seconds
+N 25600, t 4: Execution time 70.226351 seconds
+N 25600, t 4: Execution time 72.048032 seconds
+N 25600, t 4: Execution time 72.330830 seconds
+N 25600, t 4: Execution time 71.210080 seconds
+N 25600, t 4: Execution time 70.726049 seconds
+N 25600, t 4: Execution time 71.787638 seconds
+N 25600, t 4: Execution time 70.955634 seconds
+N 25600, t 4: Execution time 71.055965 seconds
+N 25600, t 4: Execution time 70.735356 seconds
+N 25600, t 4: Execution time 86.019398 seconds

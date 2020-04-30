@@ -1,0 +1,15 @@
+N 38912, t 44: Execution time 330.921622 seconds
+N 38912, t 44: Execution time 332.616668 seconds
+N 38912, t 44: Execution time 331.574260 seconds
+N 38912, t 44: Execution time 330.005510 seconds
+N 38912, t 44: Execution time 330.604012 seconds
+N 38912, t 44: Execution time 330.272875 seconds
+N 38912, t 44: Execution time 332.242858 seconds
+N 38912, t 44: Execution time 332.247145 seconds
+N 38912, t 44: Execution time 328.969329 seconds
+N 38912, t 44: Execution time 331.505873 seconds
+N 38912, t 44: Execution time 328.647467 seconds
+N 38912, t 44: Execution time 331.038135 seconds
+N 38912, t 44: Execution time 327.718432 seconds
+N 38912, t 44: Execution time 330.042772 seconds
+N 38912, t 44: Execution time 330.947792 seconds

@@ -1,0 +1,15 @@
+N 35840, t 32: Execution time 242.657646 seconds
+N 35840, t 32: Execution time 244.040323 seconds
+N 35840, t 32: Execution time 241.957416 seconds
+N 35840, t 32: Execution time 244.038563 seconds
+N 35840, t 32: Execution time 241.789718 seconds
+N 35840, t 32: Execution time 243.376855 seconds
+N 35840, t 32: Execution time 242.527508 seconds
+N 35840, t 32: Execution time 241.931101 seconds
+N 35840, t 32: Execution time 246.686829 seconds
+N 35840, t 32: Execution time 242.042242 seconds
+N 35840, t 32: Execution time 244.706846 seconds
+N 35840, t 32: Execution time 242.429532 seconds
+N 35840, t 32: Execution time 243.955486 seconds
+N 35840, t 32: Execution time 242.163125 seconds
+N 35840, t 32: Execution time 241.990439 seconds

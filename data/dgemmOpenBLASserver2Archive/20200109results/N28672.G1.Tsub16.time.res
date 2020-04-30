@@ -1,0 +1,15 @@
+N 28672, t 16: Execution time 131.859519 seconds
+N 28672, t 16: Execution time 131.777319 seconds
+N 28672, t 16: Execution time 131.854429 seconds
+N 28672, t 16: Execution time 131.557170 seconds
+N 28672, t 16: Execution time 131.686646 seconds
+N 28672, t 16: Execution time 131.589116 seconds
+N 28672, t 16: Execution time 132.207677 seconds
+N 28672, t 16: Execution time 131.686754 seconds
+N 28672, t 16: Execution time 133.024292 seconds
+N 28672, t 16: Execution time 131.531983 seconds
+N 28672, t 16: Execution time 131.366506 seconds
+N 28672, t 16: Execution time 131.629894 seconds
+N 28672, t 16: Execution time 131.917451 seconds
+N 28672, t 16: Execution time 131.703751 seconds
+N 28672, t 16: Execution time 131.502541 seconds

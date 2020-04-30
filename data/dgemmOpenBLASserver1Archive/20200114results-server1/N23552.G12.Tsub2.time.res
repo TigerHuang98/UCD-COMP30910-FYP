@@ -1,0 +1,15 @@
+N 23552, t 2: Execution time 59.299413 seconds
+N 23552, t 2: Execution time 58.833861 seconds
+N 23552, t 2: Execution time 58.044777 seconds
+N 23552, t 2: Execution time 58.286156 seconds
+N 23552, t 2: Execution time 57.884938 seconds
+N 23552, t 2: Execution time 58.202074 seconds
+N 23552, t 2: Execution time 57.925504 seconds
+N 23552, t 2: Execution time 58.865360 seconds
+N 23552, t 2: Execution time 58.377079 seconds
+N 23552, t 2: Execution time 57.583928 seconds
+N 23552, t 2: Execution time 59.152544 seconds
+N 23552, t 2: Execution time 59.667648 seconds
+N 23552, t 2: Execution time 70.316842 seconds
+N 23552, t 2: Execution time 71.407505 seconds
+N 23552, t 2: Execution time 70.650191 seconds

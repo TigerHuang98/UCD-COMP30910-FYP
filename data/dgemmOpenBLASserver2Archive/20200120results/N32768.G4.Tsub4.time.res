@@ -1,0 +1,15 @@
+N 32768, t 4: Execution time 537.744728 seconds
+N 32768, t 4: Execution time 442.046784 seconds
+N 32768, t 4: Execution time 441.236927 seconds
+N 32768, t 4: Execution time 442.118634 seconds
+N 32768, t 4: Execution time 442.392016 seconds
+N 32768, t 4: Execution time 441.440140 seconds
+N 32768, t 4: Execution time 441.543872 seconds
+N 32768, t 4: Execution time 440.556581 seconds
+N 32768, t 4: Execution time 441.985889 seconds
+N 32768, t 4: Execution time 441.872214 seconds
+N 32768, t 4: Execution time 441.397963 seconds
+N 32768, t 4: Execution time 443.071422 seconds
+N 32768, t 4: Execution time 537.721422 seconds
+N 32768, t 4: Execution time 443.245397 seconds
+N 32768, t 4: Execution time 441.720764 seconds

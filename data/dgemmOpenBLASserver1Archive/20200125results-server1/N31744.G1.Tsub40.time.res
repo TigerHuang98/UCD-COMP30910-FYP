@@ -1,0 +1,15 @@
+N 31744, t 40: Execution time 157.778149 seconds
+N 31744, t 40: Execution time 157.440586 seconds
+N 31744, t 40: Execution time 156.500347 seconds
+N 31744, t 40: Execution time 158.586124 seconds
+N 31744, t 40: Execution time 156.908685 seconds
+N 31744, t 40: Execution time 157.509913 seconds
+N 31744, t 40: Execution time 156.692047 seconds
+N 31744, t 40: Execution time 157.723572 seconds
+N 31744, t 40: Execution time 156.572560 seconds
+N 31744, t 40: Execution time 156.665288 seconds
+N 31744, t 40: Execution time 157.548042 seconds
+N 31744, t 40: Execution time 157.439429 seconds
+N 31744, t 40: Execution time 156.952781 seconds
+N 31744, t 40: Execution time 157.423741 seconds
+N 31744, t 40: Execution time 157.404260 seconds

@@ -1,0 +1,15 @@
+N 19456, t 2: Execution time 20.807248 seconds
+N 19456, t 2: Execution time 21.234569 seconds
+N 19456, t 2: Execution time 21.490445 seconds
+N 19456, t 2: Execution time 21.917830 seconds
+N 19456, t 2: Execution time 21.116131 seconds
+N 19456, t 2: Execution time 20.967509 seconds
+N 19456, t 2: Execution time 20.554340 seconds
+N 19456, t 2: Execution time 21.096815 seconds
+N 19456, t 2: Execution time 21.411042 seconds
+N 19456, t 2: Execution time 20.532929 seconds
+N 19456, t 2: Execution time 21.412186 seconds
+N 19456, t 2: Execution time 21.045108 seconds
+N 19456, t 2: Execution time 20.563457 seconds
+N 19456, t 2: Execution time 21.776921 seconds
+N 19456, t 2: Execution time 20.745259 seconds

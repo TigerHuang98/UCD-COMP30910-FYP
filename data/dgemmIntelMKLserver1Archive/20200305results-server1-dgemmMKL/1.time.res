@@ -1,0 +1,12 @@
+N 36864, t 16: Execution time 259.679817 seconds
+N 36864, t 16: Execution time 252.373468 seconds
+N 36864, t 16: Execution time 256.090612 seconds
+N 36864, t 16: Execution time 249.828163 seconds
+N 36864, t 16: Execution time 252.159038 seconds
+N 36864, t 16: Execution time 257.771258 seconds
+N 36864, t 16: Execution time 259.936103 seconds
+N 36864, t 16: Execution time 250.525318 seconds
+N 36864, t 16: Execution time 263.054049 seconds
+N 36864, t 16: Execution time 262.121324 seconds
+N 36864, t 16: Execution time 263.159505 seconds
+N 36864, t 16: Execution time 250.166303 seconds

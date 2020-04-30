@@ -1,0 +1,15 @@
+N 21504, t 6: Execution time 43.393698 seconds
+N 21504, t 6: Execution time 43.377877 seconds
+N 21504, t 6: Execution time 44.940331 seconds
+N 21504, t 6: Execution time 43.521447 seconds
+N 21504, t 6: Execution time 43.602068 seconds
+N 21504, t 6: Execution time 43.456941 seconds
+N 21504, t 6: Execution time 43.577817 seconds
+N 21504, t 6: Execution time 43.629807 seconds
+N 21504, t 6: Execution time 43.460288 seconds
+N 21504, t 6: Execution time 43.321613 seconds
+N 21504, t 6: Execution time 43.401874 seconds
+N 21504, t 6: Execution time 43.419105 seconds
+N 21504, t 6: Execution time 43.514329 seconds
+N 21504, t 6: Execution time 43.348412 seconds
+N 21504, t 6: Execution time 43.560997 seconds

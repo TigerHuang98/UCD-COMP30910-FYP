@@ -1,0 +1,15 @@
+N 16384, t 2: Execution time 34.585111 seconds
+N 16384, t 2: Execution time 34.540012 seconds
+N 16384, t 2: Execution time 34.795548 seconds
+N 16384, t 2: Execution time 34.956573 seconds
+N 16384, t 2: Execution time 34.449613 seconds
+N 16384, t 2: Execution time 34.676944 seconds
+N 16384, t 2: Execution time 34.752324 seconds
+N 16384, t 2: Execution time 34.605937 seconds
+N 16384, t 2: Execution time 34.644711 seconds
+N 16384, t 2: Execution time 34.521944 seconds
+N 16384, t 2: Execution time 34.647745 seconds
+N 16384, t 2: Execution time 34.382776 seconds
+N 16384, t 2: Execution time 34.798474 seconds
+N 16384, t 2: Execution time 34.567813 seconds
+N 16384, t 2: Execution time 34.696155 seconds

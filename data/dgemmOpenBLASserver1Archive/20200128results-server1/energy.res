@@ -1,0 +1,17 @@
+N=33792, G=1, T=20, DummyTotalEnergy(J)=8582.93, Time(s)=143.025, TotalEnergy(J)=, DynamicEnergy(J)=-24312.820
+N=33792, G=1, T=24, DummyTotalEnergy(J)=8582.93, Time(s)=161.333, TotalEnergy(J)=, DynamicEnergy(J)=-28523.660
+N=33792, G=1, T=28, DummyTotalEnergy(J)=8582.93, Time(s)=185.736, TotalEnergy(J)=, DynamicEnergy(J)=-34136.350
+N=33792, G=1, T=32, DummyTotalEnergy(J)=8582.93, Time(s)=167.959, TotalEnergy(J)=, DynamicEnergy(J)=-30047.640
+N=33792, G=1, T=36, DummyTotalEnergy(J)=8582.93, Time(s)=156.778, TotalEnergy(J)=, DynamicEnergy(J)=-27476.010
+N=33792, G=1, T=40, DummyTotalEnergy(J)=8582.93, Time(s)=146.989, TotalEnergy(J)=, DynamicEnergy(J)=-25224.540
+N=33792, G=1, T=44, DummyTotalEnergy(J)=8582.93, Time(s)=137.001, TotalEnergy(J)=, DynamicEnergy(J)=-22927.300
+N=33792, G=1, T=48, DummyTotalEnergy(J)=8582.93, Time(s)=133.094, TotalEnergy(J)=, DynamicEnergy(J)=-22028.690
+N=33792, G=2, T=4, DummyTotalEnergy(J)=8582.93, Time(s)=283.716, TotalEnergy(J)=, DynamicEnergy(J)=-56671.750
+N=33792, G=2, T=8, DummyTotalEnergy(J)=8582.93, Time(s)=147.822, TotalEnergy(J)=, DynamicEnergy(J)=-25416.130
+N=33792, G=2, T=12, DummyTotalEnergy(J)=8582.93, Time(s)=119.413, TotalEnergy(J)=64379.06666666666666666666, DynamicEnergy(J)=28331.110
+N=33792, G=2, T=16, DummyTotalEnergy(J)=8582.93, Time(s)=143.449, TotalEnergy(J)=, DynamicEnergy(J)=-24410.340
+N=33792, G=2, T=20, DummyTotalEnergy(J)=8582.93, Time(s)=122.416, TotalEnergy(J)=, DynamicEnergy(J)=-19572.750
+N=33792, G=2, T=24, DummyTotalEnergy(J)=8582.93, Time(s)=111.671, TotalEnergy(J)=61732.26666666666666666666, DynamicEnergy(J)=27464.970
+N=33792, G=3, T=4, DummyTotalEnergy(J)=8582.93, Time(s)=190.091, TotalEnergy(J)=, DynamicEnergy(J)=-35138.000
+N=33792, G=3, T=8, DummyTotalEnergy(J)=8582.93, Time(s)=118.767, TotalEnergy(J)=63523.00000000000000000000, DynamicEnergy(J)=27623.690
+N=33792, G=3, T=12, DummyTotalEnergy(J)=8582.93, Time(s)=130.254, TotalEnergy(J)=, DynamicEnergy(J)=-21375.490

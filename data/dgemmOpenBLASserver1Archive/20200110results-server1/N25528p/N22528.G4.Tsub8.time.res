@@ -1,0 +1,15 @@
+N 22528, t 8: Execution time 60.829818 seconds
+N 22528, t 8: Execution time 61.133952 seconds
+N 22528, t 8: Execution time 60.824297 seconds
+N 22528, t 8: Execution time 60.880922 seconds
+N 22528, t 8: Execution time 60.764479 seconds
+N 22528, t 8: Execution time 60.997511 seconds
+N 22528, t 8: Execution time 61.024969 seconds
+N 22528, t 8: Execution time 60.793293 seconds
+N 22528, t 8: Execution time 60.587521 seconds
+N 22528, t 8: Execution time 60.530917 seconds
+N 22528, t 8: Execution time 61.102156 seconds
+N 22528, t 8: Execution time 60.588937 seconds
+N 22528, t 8: Execution time 60.940751 seconds
+N 22528, t 8: Execution time 61.213077 seconds
+N 22528, t 8: Execution time 52.836466 seconds

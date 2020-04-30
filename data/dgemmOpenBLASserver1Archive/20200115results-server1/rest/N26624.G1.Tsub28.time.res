@@ -1,0 +1,15 @@
+N 26624, t 28: Execution time 118.496802 seconds
+N 26624, t 28: Execution time 118.942158 seconds
+N 26624, t 28: Execution time 120.153429 seconds
+N 26624, t 28: Execution time 119.508372 seconds
+N 26624, t 28: Execution time 118.332127 seconds
+N 26624, t 28: Execution time 119.536438 seconds
+N 26624, t 28: Execution time 118.204205 seconds
+N 26624, t 28: Execution time 118.452479 seconds
+N 26624, t 28: Execution time 118.901260 seconds
+N 26624, t 28: Execution time 121.316450 seconds
+N 26624, t 28: Execution time 124.674455 seconds
+N 26624, t 28: Execution time 119.164822 seconds
+N 26624, t 28: Execution time 118.537457 seconds
+N 26624, t 28: Execution time 118.581657 seconds
+N 26624, t 28: Execution time 119.142689 seconds

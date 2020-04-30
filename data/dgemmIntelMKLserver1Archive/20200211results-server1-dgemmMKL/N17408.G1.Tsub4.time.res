@@ -1,0 +1,15 @@
+N 17408, t 4: Execution time 86.138512 seconds
+N 17408, t 4: Execution time 84.594309 seconds
+N 17408, t 4: Execution time 85.600939 seconds
+N 17408, t 4: Execution time 86.411161 seconds
+N 17408, t 4: Execution time 84.283758 seconds
+N 17408, t 4: Execution time 85.117846 seconds
+N 17408, t 4: Execution time 84.776276 seconds
+N 17408, t 4: Execution time 85.312434 seconds
+N 17408, t 4: Execution time 85.034937 seconds
+N 17408, t 4: Execution time 84.830248 seconds
+N 17408, t 4: Execution time 86.245494 seconds
+N 17408, t 4: Execution time 85.943091 seconds
+N 17408, t 4: Execution time 86.004324 seconds
+N 17408, t 4: Execution time 85.902146 seconds
+N 17408, t 4: Execution time 84.981031 seconds

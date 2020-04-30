@@ -1,0 +1,15 @@
+N 30720, t 1: Execution time 34.097787 seconds
+N 30720, t 1: Execution time 34.399524 seconds
+N 30720, t 1: Execution time 34.381859 seconds
+N 30720, t 1: Execution time 34.296287 seconds
+N 30720, t 1: Execution time 34.022899 seconds
+N 30720, t 1: Execution time 34.697173 seconds
+N 30720, t 1: Execution time 34.092021 seconds
+N 30720, t 1: Execution time 34.184365 seconds
+N 30720, t 1: Execution time 34.173668 seconds
+N 30720, t 1: Execution time 34.319093 seconds
+N 30720, t 1: Execution time 34.327850 seconds
+N 30720, t 1: Execution time 34.090755 seconds
+N 30720, t 1: Execution time 34.328689 seconds
+N 30720, t 1: Execution time 34.109455 seconds
+N 30720, t 1: Execution time 34.193034 seconds

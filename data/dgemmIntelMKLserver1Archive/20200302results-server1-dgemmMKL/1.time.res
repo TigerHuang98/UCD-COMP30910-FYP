@@ -1,0 +1,9 @@
+N 35840, t 16: Execution time 228.564101 seconds
+N 35840, t 16: Execution time 230.659326 seconds
+N 35840, t 16: Execution time 233.050081 seconds
+N 35840, t 16: Execution time 239.440128 seconds
+N 35840, t 16: Execution time 229.462114 seconds
+N 35840, t 16: Execution time 229.156525 seconds
+N 35840, t 16: Execution time 229.116313 seconds
+N 35840, t 16: Execution time 232.603902 seconds
+N 35840, t 16: Execution time 229.715575 seconds

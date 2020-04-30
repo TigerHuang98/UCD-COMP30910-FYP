@@ -1,0 +1,497 @@
+Redirecting to /bin/systemctl stop  mysqld.service
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26929 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26945 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26953 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26961 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26972 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26980 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 26996 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27042 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27076 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27146 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27155 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27171 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27179 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27187 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105: 27230 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 27292 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 28192 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 28635 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 29203 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 29733 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 30477 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 31279 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 32036 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 33214 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 34189 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 35073 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 36331 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 37560 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 38482 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 39270 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 40173 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 41448 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 42980 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 44430 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 44471 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 44512 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+Usage: ./dgemmlimb3 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 44553 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 44658 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 45713 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 46860 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48250 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48291 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48332 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+Usage: ./dgemmlimb6 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48373 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48486 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48527 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+Usage: ./dgemmlimb8 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48568 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48647 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48688 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48729 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+Usage: ./dgemmlimb12 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48770 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48839 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48880 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+Usage: ./dgemmlimb16 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48921 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 48963 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+Usage: ./dgemmlimb24 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 49004 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+Usage: ./dgemmlimb48 <N> <nt> <initialization>.
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56: 49092 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+(standard_in) 1: illegal character: N
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   355 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   372 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   401 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   434 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   451 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   459 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   467 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   476 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   556 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   565 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   573 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   581 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   597 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   606 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 105:   614 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:   647 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  1712 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  2240 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  3062 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  3698 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  4504 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  5536 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
+/opt/powertools/bin/wattsup1: no process found
+./runenergynow_server1_fyp.sh: line 56:  6725 Killed                  $WATTSUP1 --interval=1 > wattsup1.data 2>&1
