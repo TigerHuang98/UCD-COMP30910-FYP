@@ -22,7 +22,7 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
               16: '#7f7f7f', 24: '#bcbd22', 48: '#17becf', 11: '#e377c2', 22: '#bcbd22', 44: '#17becf'}
 
     step_by_step_threshold = 16
-    if t__up==48:
+    if t__up == 48:
         non_step_by_step_threshold = 20
     else:
         non_step_by_step_threshold = 11
@@ -91,21 +91,21 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                             XSeries2 = np.arange(np.min(fitXList2), np.max(fitXList2))
                             fitYValues2 = p2(XSeries2)
                             plt.plot(XSeries2, fitYValues2, ':', color=colors[G])
-                else: # server 2
+                else:  # server 2
                     fitXList = []
                     fitYList = []
                     for T in np.arange(tStep, tMax + 1, tStep):
-                        if True:# T <= step_by_step_threshold:
+                        if True:  # T <= step_by_step_threshold:
                             fitdataObj = dataDict.get((str(N), str(G), str(int(T))))
                             if fitdataObj:
                                 fitXList.append(fitdataObj[1])
                                 fitYList.append(fitdataObj[3])
-                func = np.polyfit(fitXList, fitYList, 2)
-                p1 = np.poly1d(func)
-                print('N:' + str(N) + ',G:' + str(G) + str(p1))
-                XSeries = np.arange(np.min(fitXList), np.max(fitXList))
-                fitYValues = p1(XSeries)
-                plt.plot(XSeries, fitYValues, ':', color=colors[G])
+                    func = np.polyfit(fitXList, fitYList, 2)
+                    p1 = np.poly1d(func)
+                    print('N:' + str(N) + ',G:' + str(G) + str(p1))
+                    XSeries = np.arange(np.min(fitXList), np.max(fitXList))
+                    fitYValues = p1(XSeries)
+                    plt.plot(XSeries, fitYValues, ':', color=colors[G])
 
             for T in np.arange(tStep, tMax + 1, tStep):
                 # print(str(N) + ',' + str(G) + ',' + str(T) + ','+str(dataDict[str(N),str(G),str(int(T))]))
