@@ -111,7 +111,7 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                 # print(str(N) + ',' + str(G) + ',' + str(T) + ','+str(dataDict[str(N),str(G),str(int(T))]))
                 dataObj = dataDict.get((str(N), str(G), str(int(T))))
                 if dataObj:
-                    plt.scatter(dataObj[1], dataObj[3], color=colors[G])
+                    # plt.scatter(dataObj[1], dataObj[3], color=colors[G], label=G)
                     xList.append(dataObj[1])
                     yList.append(dataObj[3])
                     if T == tStep:
@@ -122,8 +122,9 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                     else:
                         if T * G <= non_step_by_step_threshold < (T + tStep) * G:
                             plt.scatter(dataObj[1], dataObj[3], color='black', s=14, marker='*')
-
-            plt.plot(xList, yList, color=colors[G], linewidth=2, alpha=0.6, label=G)
+            if True:
+                plt.scatter(xList, yList, color=colors[G], label="g = " + str(G))
+            # plt.plot(xList, yList, color=colors[G], linewidth=2, alpha=0.6, label=G)
         title_match_obj = re.match(r"data/([^/]*)Archive/.*", clean_data_file)
         if title_match_obj:
             title_prefix = title_match_obj.group(1) + ","
