@@ -29,6 +29,10 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
 
     for N in n_range:
         fig, plot = plt.subplots(figsize=(16, 9))
+        total_fit_flag=False
+        if total_fit_flag:
+            fitXall = []
+            fitYall = []
         for G in g_set:
             xList = []
             yList = []
@@ -44,7 +48,7 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                 else:
                     tStep = 1
 
-            if G == 1 and step_by_step:
+            if G == 1 and step_by_step and not total_fit_flag:
                 fitXList = []
                 fitYList = []
                 for T in np.arange(tStep, tMax + 1, tStep):
@@ -97,15 +101,15 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                     for T in np.arange(tStep, tMax + 1, tStep):
                         if True:  # T <= step_by_step_threshold:
                             fitdataObj = dataDict.get((str(N), str(G), str(int(T))))
-                            if fitdataObj:
-                                fitXList.append(fitdataObj[1])
-                                fitYList.append(fitdataObj[3])
-                    func = np.polyfit(fitXList, fitYList, 2)
-                    p1 = np.poly1d(func)
-                    print('N:' + str(N) + ',G:' + str(G) + str(p1))
-                    XSeries = np.arange(np.min(fitXList), np.max(fitXList))
-                    fitYValues = p1(XSeries)
-                    plt.plot(XSeries, fitYValues, ':', color=colors[G])
+                            # if fitdataObj:
+                                # fitXList.append(fitdataObj[1])
+                                # fitYList.append(fitdataObj[3])
+                    # func = np.polyfit(fitXList, fitYList, 2)
+                    # p1 = np.poly1d(func)
+                    # print('N:' + str(N) + ',G:' + str(G) + str(p1))
+                    # XSeries = np.arange(np.min(fitXList), np.max(fitXList))
+                    # fitYValues = p1(XSeries)
+                    # plt.plot(XSeries, fitYValues, ':', color=colors[G])
 
             for T in np.arange(tStep, tMax + 1, tStep):
                 # print(str(N) + ',' + str(G) + ',' + str(T) + ','+str(dataDict[str(N),str(G),str(int(T))]))
@@ -114,6 +118,9 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                     # plt.scatter(dataObj[1], dataObj[3], color=colors[G], label=G)
                     xList.append(dataObj[1])
                     yList.append(dataObj[3])
+                    if total_fit_flag:
+                        fitXall.append(dataObj[1])
+                        fitYall.append(dataObj[3])
                     if T == tStep:
                         plt.scatter(dataObj[1], dataObj[3], color='black', s=3)
                     if step_by_step:
@@ -133,5 +140,12 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
         plt.title(title_prefix + "N=" + str(N))
         plot.set_xlabel('Time(s)')
         plot.set_ylabel('DynamicEnergy(J)')
+        if total_fit_flag:
+            func = np.polyfit(fitXall, fitYall, 2)
+            p1 = np.poly1d(func)
+            XSeries = np.arange(np.min(fitXall), np.max(fitXall))
+            fitYValues = p1(XSeries)
+            plt.plot(XSeries, fitYValues)
+            print("fit all"+str(p1))
         plt.legend()
         plt.show()
