@@ -1,0 +1,19 @@
+Name: Yuyang Huang
+UCD ID: 16206474
+Supervisor: Dr. Ravi Manumachu
+Project Name: Energy proportionality of multicore CPUs: A visual optimization guide
+
+
+This repository contains the result of the experiments conducted in the project, and the scripts used to generate the Plots in the final report.
+
+The directory ./data/ contains the experiment results for eight sub-experiments, the structure of sub-experiment folder name is  <application><implementation><server>, where application={dgemm|fft}, implementation={IntelMKL|OpenBLAS|FFTW}, server={server1|server2}
+In these sub-experiment folders, there are two types of folder, the first type is the ..../merged_result/ , which contains the result after being cleaned, and act as the base of plot drawing.
+The other type is the folders started with date, these folders contains the raw experiment data generated on that day.
+
+The directory ./Recalculate/ contains the scripts used in the data cleaning process.
+
+The ./requirements.txt file contains the dependencies for the plot-drawing scripts,  the direct dependencies for those scripts are matplotlib and NumPy.
+
+The DrawPlotCore.py contains the common parts of the plot drawing scripts, but not intended to be a stand-alone script.
+
+The DrawPlot<sub-experiment name>.py are scripts that actually used to generate the plots.
