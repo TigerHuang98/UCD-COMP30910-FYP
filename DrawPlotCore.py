@@ -114,7 +114,8 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
                         fitdataObj = dataDict.get((str(N), str(G), str(int(T))))
                         fitXList.append(fitdataObj[1])
                         fitYList.append(fitdataObj[3])
-                func = np.polyfit(fitXList, fitYList, 1)
+                func = np.polyfit(fitXList, fitYList,
+                                  2)  # change the last parameter to 1 to get straight line for FFTIntelMKL
                 p1 = np.poly1d(func)
                 print('N:' + str(N) + ',G:' + str(G) + str(p1))
                 XSeries = np.arange(np.min(fitXList), np.max(fitXList) + 1)
@@ -236,7 +237,7 @@ def drawPlot(clean_data_file, n_range, g_set, t__up, step_by_step):
             # print('N:' + str(N) + ',G:1++' + str(p1))
             XSeries = np.arange(np.min(fitXList), np.max(fitXList) + 1)
             fitYValues = p1(XSeries)
-            plt.plot(XSeries, fitYValues, ':', color=colors[G])
+            # plt.plot(XSeries, fitYValues, ':', color=colors[G]) # uncomment this line for FFTIntelMKL
 
 
         paretoFrontX=[]
